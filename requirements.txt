@@ -1,5 +1,5 @@
-fastapi
-uvicorn
-pandas
-scikit-learn
-fairlearn
+fastapi==0.136.0
+uvicorn==0.45.0
+pandas==3.0.2
+scikit-learn==1.8.0
+fairlearn==0.13.0
